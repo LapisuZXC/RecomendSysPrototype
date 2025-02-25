@@ -13,7 +13,7 @@ This project is a prototype of a recommendation system for anime using a machine
 ## Project Structure
 ```
 📂 project_root
-├── 📂 data              # Dataset and preprocessed data
+├── 📂 data_proccesing   # Preprocessed data
 ├── 📂 models            # Trained models
 ├── 📂 database          # Database-related scripts
 ├── 📂 notebooks         # Jupyter notebooks with EDA
